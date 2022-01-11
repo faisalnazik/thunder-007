@@ -1,9 +1,12 @@
+
 ### Hi there 👋
 - 🔭 I’m currently working on myself
+<div align = "center">
+<img style = "align:center;" width=50% src="https://user-images.githubusercontent.com/75431678/148881855-4fa0c814-d6bd-4d80-85c7-643d9a3eb636.gif">
+ </div>
+
 <!--
 **thunder-007/thunder-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[hack](https://user-images.githubusercontent.com/75431678/148881855-4fa0c814-d6bd-4d80-85c7-643d9a3eb636.gif)
 
 Here are some ideas to get you started:
 
@@ -16,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder-007&show_icons=true&theme=tokyonight)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder-007&layout=compact)](https://github.com/anuraghazra/github-readme-stat)-->
-
+<div align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=thunder-007&show_icons=true&theme=tokyonight">
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunder-007&layout=compact"-->
+</div>
