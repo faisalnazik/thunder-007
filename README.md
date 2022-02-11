@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thunder-007&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+ </div>
 <div align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=thunder-007&show_icons=true&theme=tokyonight">
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunder-007&layout=compact"-->
